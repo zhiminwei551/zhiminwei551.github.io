@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am a senior majoring in Computer Science and Technology at Northwestern Polytechnical University.
+I am a senior majoring in Computer Science and Technology at Northwestern Polytechnical University. My research focuses on Retrieval-Augmented Generation (RAG).
 
 # 🎉 News
 
